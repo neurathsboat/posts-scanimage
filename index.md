@@ -10,7 +10,7 @@ summary = "Longitudinal tracking of image features"
 abstract =  "Longitudinal tracking of image features"
 authors = ["Vassilis Kehayas"]
 hasPlotly = false
-doi = ""
+doi = "10.5281/zenodo.2536370"
 sourceFile = "index.md"
 
 +++
